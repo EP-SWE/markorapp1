@@ -1,1 +1,0 @@
-# MarkörApp – Fungerande version för Vercel
